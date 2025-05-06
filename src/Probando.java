@@ -1,7 +1,7 @@
-public class Probando {
+public class PracticaFinal {
     public static void main(String[] args) {
-        System.out.println("probando Github");
-        System.out.println("editando Github desde github");
+        System.out.println("practicaFinal de Github");
+        
         
     }
 }
