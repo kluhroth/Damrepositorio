@@ -1,0 +1,22 @@
+ABC1234#Honda#Civic#2022#gasolina#4
+TES4567#Tesla#Model 3#2023#eléctrico#4
+YAM9087#Yamaha#MT-07#2022#gasolina#2#False
+HDV2233#Harley-Davidson#Iron 883#2021#gasolina#2#False
+HON3344#Honda#Goldwing#2019#gasolina#2#True
+ABC1234#Honda#Civic#2022#gasolina#4
+TES4567#Tesla#Model 3#2023#eléctrico#4
+TOY7890#Toyota#Corolla#2021#híbrido#4
+FOR3210#Ford#Mustang#2020#gasolina#2
+BMW6677#BMW#R1250GS#2023#gasolina#2#False
+URA8899#Ural#Gear Up#2020#gasolina#3#True
+YAM9087#Yamaha#MT-07#2022#gasolina#2#False
+HDV2233#Harley-Davidson#Iron 883#2021#gasolina#2#False
+HON3344#Honda#Goldwing#2019#gasolina#2#True
+TOY7890#Toyota#Corolla#2021#híbrido#4
+FOR3210#Ford#Mustang#2020#gasolina#2
+DUC4411#Ducati#Monster#2022#gasolina#2#False
+VWG6543#Volkswagen#Golf#2019#diésel#5
+KIA1122#Kia#Sportage#2023#gasolina#5
+
+
+

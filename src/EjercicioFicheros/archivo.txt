@@ -1,0 +1,3 @@
+Alumno{dni='212348f'; nombre='juan'; asignatura=[programacion, bd]}
+Alumno{dni='124123413t'; nombre='Alejandro'; asignatura=[bd, programacion]}
+Alumno{dni='99999999r'; nombre='sara'; asignatura=[bd, programacion, redes]}

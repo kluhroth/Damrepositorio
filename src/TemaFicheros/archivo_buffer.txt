@@ -1,0 +1,2 @@
+Primera Linea con Buffered Writer
+Segunda Linea.
